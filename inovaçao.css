@@ -78,3 +78,10 @@ section.bg-light p {
    width: 345px;
   height: 350px;
 }
+
+.footer {
+  background-color: #556B2F;
+  color: white;
+  text-align: center;
+  padding: 5px;
+}
