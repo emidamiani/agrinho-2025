@@ -1,4 +1,4 @@
-#Projeto AGRINHO 2025
+#AGRINHO 2025
 
 Este projeto é uma página web que celebra e explica a conexão entre o campo e a cidade, destacando temas como interdependência, inovação e sustentabilidade no meio rural e urbano. O site apresenta informações de forma clara, com imagens e depoimentos para enriquecer a experiência do usuário.
 
